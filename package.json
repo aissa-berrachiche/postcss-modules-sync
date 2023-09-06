@@ -1,5 +1,5 @@
 {
-  "name": "@aissa/postcss-modules-sync",
+  "name": "@aissab/postcss-modules-sync",
   "version": "1.0.1",
   "description": "A PostCSS plugin to use CSS Modules synchronously in js - upgrade dependencies",
   "main": "lib/index.js",
